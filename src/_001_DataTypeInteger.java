@@ -3,7 +3,7 @@ public class _001_DataTypeInteger {
 		/* integer data type
 		 * byte(1), short(2), int(4), long(8) */
 		
-		//data type이 long인 경우, 그 숫자가 "pow(2, 31) - 1"보다 크다면 접미사'L'을 붙여야 한다.
+		//long type의 경우, 그 숫자가 "pow(2, 31) - 1"보다 크다면 접미사'L'을 붙여야 한다.
 		
 		//long largeNumber = 3000000000; -> Compile Error
 		long largeNumber = 3000000000L;
