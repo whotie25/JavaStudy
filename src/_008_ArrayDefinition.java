@@ -19,5 +19,18 @@ public class _008_ArrayDefinition{
 		for(int i = 0; i < inventory.length; i++) {
 			System.out.println(inventory[i]);
 		}
+		
+		System.out.println();
+		
+		for(String item : inventory) {
+			System.out.println(item);
+		}
+		
+		System.out.println();
+		
+		int[] zeroArray = new int[3];
+		for(int value : zeroArray) {
+			System.out.print(value + " ");
+		}
 	}
 }
