@@ -1,5 +1,4 @@
 //A+B
-
 package Baekjoon;
 
 import java.util.Scanner;
