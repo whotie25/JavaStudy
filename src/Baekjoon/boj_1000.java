@@ -1,6 +1,5 @@
-//A+B
+// 1000. A+B
 package Baekjoon;
-
 import java.util.Scanner;
 
 public class boj_1000 {
