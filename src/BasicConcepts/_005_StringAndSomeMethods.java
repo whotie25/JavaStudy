@@ -1,3 +1,5 @@
+package BasicConcepts;
+
 public class _005_StringAndSomeMethods {
 	public static void main(String[] args) {
 		String str_1 = "Algorithm"; //권장(literal 표기 방식)

@@ -1,3 +1,5 @@
+package BasicConcepts;
+
 public class _006_StringFormatting{
 	public static void main(String[] args) {
 		float temp = 31.2f;

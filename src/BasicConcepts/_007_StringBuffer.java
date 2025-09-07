@@ -1,3 +1,5 @@
+package BasicConcepts;
+
 public class _007_StringBuffer{
 	public static void main(String[] args) {
 		StringBuffer buffer = new StringBuffer(); //Mutable Type

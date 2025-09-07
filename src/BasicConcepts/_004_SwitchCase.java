@@ -1,3 +1,5 @@
+package BasicConcepts;
+
 public class _004_SwitchCase {
 	public static void main(String[] args) {
 		for(int i = 1; i < 13; i++) {

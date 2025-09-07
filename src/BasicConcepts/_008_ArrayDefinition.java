@@ -1,3 +1,5 @@
+package BasicConcepts;
+
 public class _008_ArrayDefinition{
 	public static void main(String[] args) {
 		//Methods to define an array

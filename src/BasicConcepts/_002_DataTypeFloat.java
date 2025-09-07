@@ -1,3 +1,5 @@
+package BasicConcepts;
+
 public class _002_DataTypeFloat {
 	public static void main(String[] args) {
 		/* float data type

@@ -1,3 +1,5 @@
+package BasicConcepts;
+
 public class _001_DataTypeInteger {
 	public static void main(String[] args) {
 		/* integer data type
